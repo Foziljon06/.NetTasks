@@ -86,4 +86,4 @@
         int number = int.Parse(Console.ReadLine());
 
         string result = (number % 2 == 0) ? "Juft" : "Toq";
-        Console.WriteLine(result)
+        Console.WriteLine(result);

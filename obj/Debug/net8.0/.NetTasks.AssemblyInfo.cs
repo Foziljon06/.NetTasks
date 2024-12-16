@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute(".NetTasks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+297cb87bffba621306d04f8789f804c7b1d27f54")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba196ef19c36ab60fd73dda45732b9efb60520c1")]
 [assembly: System.Reflection.AssemblyProductAttribute(".NetTasks")]
 [assembly: System.Reflection.AssemblyTitleAttribute(".NetTasks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
