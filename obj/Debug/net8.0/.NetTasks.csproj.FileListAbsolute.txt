@@ -1,0 +1,15 @@
+C:\Users\windows 10 2004\OneDrive\Desktop\.NetTasks\bin\Debug\net8.0\.NetTasks.exe
+C:\Users\windows 10 2004\OneDrive\Desktop\.NetTasks\bin\Debug\net8.0\.NetTasks.deps.json
+C:\Users\windows 10 2004\OneDrive\Desktop\.NetTasks\bin\Debug\net8.0\.NetTasks.runtimeconfig.json
+C:\Users\windows 10 2004\OneDrive\Desktop\.NetTasks\bin\Debug\net8.0\.NetTasks.dll
+C:\Users\windows 10 2004\OneDrive\Desktop\.NetTasks\bin\Debug\net8.0\.NetTasks.pdb
+C:\Users\windows 10 2004\OneDrive\Desktop\.NetTasks\obj\Debug\net8.0\.NetTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows 10 2004\OneDrive\Desktop\.NetTasks\obj\Debug\net8.0\.NetTasks.AssemblyInfoInputs.cache
+C:\Users\windows 10 2004\OneDrive\Desktop\.NetTasks\obj\Debug\net8.0\.NetTasks.AssemblyInfo.cs
+C:\Users\windows 10 2004\OneDrive\Desktop\.NetTasks\obj\Debug\net8.0\.NetTasks.csproj.CoreCompileInputs.cache
+C:\Users\windows 10 2004\OneDrive\Desktop\.NetTasks\obj\Debug\net8.0\.NetTasks.sourcelink.json
+C:\Users\windows 10 2004\OneDrive\Desktop\.NetTasks\obj\Debug\net8.0\.NetTasks.dll
+C:\Users\windows 10 2004\OneDrive\Desktop\.NetTasks\obj\Debug\net8.0\refint\.NetTasks.dll
+C:\Users\windows 10 2004\OneDrive\Desktop\.NetTasks\obj\Debug\net8.0\.NetTasks.pdb
+C:\Users\windows 10 2004\OneDrive\Desktop\.NetTasks\obj\Debug\net8.0\.NetTasks.genruntimeconfig.cache
+C:\Users\windows 10 2004\OneDrive\Desktop\.NetTasks\obj\Debug\net8.0\ref\.NetTasks.dll
